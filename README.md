@@ -1,4 +1,4 @@
-# The Daily Quill
+# The Pirate Shore
 
 Inspired by The Pirate Bay and other open source projects that make film accessible, I developed a free streaming service that incorporates user friendly design and functionality. The site utilizes movie database APIs to get the relevant data, and React.js for a seamless user experience. By harnessing these APIs, I was able to curate a dynamic catalog that spans a vast array of genres and interests, ensuring that users can easily discover and enjoy the content they want.
 
