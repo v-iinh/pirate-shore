@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useState } from 'react';
 
 const Navbar = () => {
-    const id_key = '7c6e4841';
+    const id_key = ''; // CHANGE TO YOUR KEY
     const [inputValue, setInputValue] = useState(input_title);
     const handleKeyPress = (e) => {
         if (e.key === 'Enter') {

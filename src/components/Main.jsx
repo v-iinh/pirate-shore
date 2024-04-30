@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import requests from '../Requests'
 import axios from "axios";
 
-const id_key = '7c6e4841';
+const id_key = ''; // CHANGE TO YOUR KEY
 const Main = () => {
 
     const [movies, setMovies] = useState([])

@@ -1,4 +1,4 @@
-const display_key = '65689b46cb36274482ed8edc2fb83650';
+const display_key = ''; // CHANGE TO YOUR KEY
 
 const requests = {
     requestPopular: `https://api.themoviedb.org/3/movie/popular?api_key=${display_key}&language=en-US&page=1`,
